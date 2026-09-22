@@ -20,3 +20,4 @@ Este repositorio contiene los scripts desarrollados en Python para el modelado d
 
 ## Tecnologías Utilizadas
 * Python 3 (NumPy, SciPy, Matplotlib)
+* Entorno de desarrollo Visual Studio Code
